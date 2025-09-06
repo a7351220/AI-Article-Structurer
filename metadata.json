@@ -1,0 +1,5 @@
+{
+  "name": "AI Paragraph Editor",
+  "description": "An application to edit articles paragraph by paragraph using templates and AI-powered style adjustments.",
+  "requestFramePermissions": []
+}
